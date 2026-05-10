@@ -1,0 +1,10 @@
+[package]
+name = "xndarray"
+version = "0.1.0"
+edition = "2021"
+description = "CPU and CUDA-backed ndarray"
+license = "MIT" 
+repository = "https://github.com/akkaze/xndarray"
+keywords = ["rust", "ndarray", "cuda", "cuda-oxide"]
+categories = ["development-tools"]
+[workspace]
